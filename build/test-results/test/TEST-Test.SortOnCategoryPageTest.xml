@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test.SortOnCategoryPageTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-04-08T11:50:26" hostname="iqbal" time="471.414">
+  <properties/>
+  <testcase name="sortOnCategory_SOCP_05_SortByHighestItemPrice" classname="Test.SortOnCategoryPageTest" time="57.492"/>
+  <testcase name="sortOnCategory_SOCP_02_SortByPromotionFirst" classname="Test.SortOnCategoryPageTest" time="55.458"/>
+  <testcase name="sortOnCategory_SOCP_04_SortByLowestItemPrice" classname="Test.SortOnCategoryPageTest" time="56.958"/>
+  <testcase name="sortOnCategory_SOCP_07_SortByZA" classname="Test.SortOnCategoryPageTest" time="57.824"/>
+  <testcase name="sortOnCategory_SOCP_01_SortByPopularity" classname="Test.SortOnCategoryPageTest" time="69.534"/>
+  <testcase name="sortOnCategory_SOCP_06_SortByAZ" classname="Test.SortOnCategoryPageTest" time="58.48"/>
+  <testcase name="sortOnCategory_SOCP_03_SortByLowestUnitPrice" classname="Test.SortOnCategoryPageTest" time="60.496"/>
+  <testcase name="sortOnCategory_SOCP_03_SortByHighestUnitPrice" classname="Test.SortOnCategoryPageTest" time="55.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 08, 2019 6:50:32 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:51:29 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:52:25 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:53:22 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:54:20 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:55:29 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:56:27 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Apr 08, 2019 6:57:28 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
